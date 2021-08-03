@@ -2,6 +2,8 @@
 
 This is a NodeJS API that supports username and password authentication with JWTs and has APIs that return Chuck Norris phrases. How awesome is that?
 
+This repo cloned from here: https://github.com/auth0-blog/nodejs-jwt-authentication-sample
+
 ## Available APIs
 
 ### User APIs
