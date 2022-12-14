@@ -27,7 +27,7 @@
     "cors": "^2.4.1",
     "dotenv": "^0.4.0",
     "errorhandler": "^1.1.1",
-    "express": "^4.8.5",
+    "express": "^4.17.3",
     "express-jwt": "^0.3.1",
     "jsonwebtoken": "^5.0.1",
     "lodash": "^2.4.1",
